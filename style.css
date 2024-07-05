@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+   height: 804px;
+   width: 804px;
+   border: 0px solid black; 
+   margin: auto;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    float: left;
+  
+}
+.color1 {
+    background-color: antiquewhite;
+}
+.color2 {
+    background-color: rgb(58, 146, 58);
+}
